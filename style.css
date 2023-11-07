@@ -1,0 +1,13 @@
+
+  .card-footer{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #EE4D2D;
+    color: white;
+    text-align: center;
+  }
+.container text-center{
+  background: #EE4D2D;
+}
